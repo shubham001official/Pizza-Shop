@@ -83,7 +83,8 @@ Admins wield power with our comprehensive dashboard. Gain insights into incoming
 
     Users can manage their accounts, including saved orders and preferences.
 
-15. **User Profile** ![Users Info](https://github.com/shubham001official/Pizza-Shop/assets/109148746/2f33845e-a8f1-440c-b296-011ad448388d)
+15. **User Profile** ![Users Info](https://github.com/shubham001official/Pizza-Shop/assets/109148746/cb5218f7-6937-4692-8546-cdb44724bcc5)
+
 
     Users edit their profile details, ensuring accurate information.
 
